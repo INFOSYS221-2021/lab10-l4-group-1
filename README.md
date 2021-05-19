@@ -10,8 +10,8 @@
 - javascript
 
 ###### What were the keys and values in the hello-world sample test event template?
-- 
+- keys and values 
 
 ###### What can you use if you want to automate the creation and cleanup of lambda function, log groups and roles?
-- 
+-  
 
